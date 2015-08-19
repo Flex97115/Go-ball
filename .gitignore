@@ -4,7 +4,7 @@
 *.ko
 *.obj
 *.elf
-._*
+.DS_Store
 
 # Precompiled Headers
 *.gch
